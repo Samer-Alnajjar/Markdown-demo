@@ -8,7 +8,7 @@
 5. ![Image of a cute cat](https://pbs.twimg.com/profile_images/1089487574492680192/gjaa3FKV_400x400.jpg)
 
 
-Some verbiage with -very exciting- language in it!
+Some verbiage with _very exciting_ language in it!
 
 
 

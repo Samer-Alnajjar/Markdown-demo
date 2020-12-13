@@ -1,11 +1,11 @@
 # Markdown-demo
 
 # A demo website on markdown
-Add a # it will be a heading 1 in HTML.
-* Add a star at the start of a line to create an unordered list.
-1- Add a number at the start of a line to create an ordered list.
-[Google](http://google.com)
-![Image of a cute cat](https://pbs.twimg.com/profile_images/1089487574492680192/gjaa3FKV_400x400.jpg)
+1. Add a # it will be a heading 1 in HTML.
+2. * Add a star at the start of a line to create an unordered list.
+3. 1- Add a number at the start of a line to create an ordered list.
+4. [Google](http://google.com)
+5. ![Image of a cute cat](https://pbs.twimg.com/profile_images/1089487574492680192/gjaa3FKV_400x400.jpg)
 
 
 # Note: This page will be updated
